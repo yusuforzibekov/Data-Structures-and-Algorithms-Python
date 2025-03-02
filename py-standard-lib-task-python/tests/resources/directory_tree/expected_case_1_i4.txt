@@ -1,0 +1,5 @@
+folder_a/
+    folder_b/
+        file_c.txt
+    file_b.txt
+file_a.txt
